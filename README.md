@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @bayraktarmurat
 - 👀 I’m interested in programming, astrophyisics, quantum and psychology.(Quite diverse)
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science at Bilkent University.
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me: not now
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am a freshman...
 
 <!---
 bayraktarmurat/bayraktarmurat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
