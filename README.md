@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science at Bilkent University.
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me: not now
-- ⚡ Fun fact: I am a freshman...
+- ⚡ Fun fact: 
 
 <!---
 bayraktarmurat/bayraktarmurat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
